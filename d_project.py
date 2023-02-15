@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from tkmacosx import Button as button
-import requests
+import requests 
 import dConsts
 import math
 

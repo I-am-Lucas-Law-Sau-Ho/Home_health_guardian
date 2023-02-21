@@ -7,7 +7,7 @@ and cleaner code.
 # Window settings and all colors used in project
 WINDOW_TITLE = "Dialysis Nutrition Information By Sheung Wo Street Boy God"
 MAIN_WINDOW_SIZE = "1200x800"
-MAIN_WINDOW_COLOR = "#bedddc"
+MAIN_WINDOW_COLOR = "#bedddc" 
 MAIN_FRAME_COLOR = "#f4efeb"
 GOOD_FOOD_COLOR = "#9be281"
 BAD_FOOD_COLOR = "#f9a08b"

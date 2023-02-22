@@ -9,7 +9,7 @@ try:
     import Tkinter as tk
 except:
     import tkinter as tk
-from tkinter import *
+from tkinter import * 
 import os
 from PIL import ImageTk, Image
 from tkinter import filedialog

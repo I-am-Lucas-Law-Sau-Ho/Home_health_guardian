@@ -10,7 +10,7 @@ try:
 except: 
     import tkinter as tk
 from tkinter import * 
-import os
+import os 
 from PIL import ImageTk, Image
 from tkinter import filedialog
 from tkinter import *

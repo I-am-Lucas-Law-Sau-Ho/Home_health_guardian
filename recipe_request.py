@@ -6,7 +6,7 @@ from random import randint
 
 FILENAME = "test_recipe_03.db"
 con = sql.connect(FILENAME)
-C = con.cursor()
+C = con.cursor() 
 
 # ID set is used to ensure all recipes have unique ID
 IDS = {-1}

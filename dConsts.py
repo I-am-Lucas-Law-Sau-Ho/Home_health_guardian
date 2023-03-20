@@ -1,5 +1,5 @@
 """
-All constants used for dialysis project
+All constants used for dialysis project 
 accumulated in one file for easier accessibility
 and cleaner code. 
 """ 

@@ -9,7 +9,7 @@ import math
 class Page(tk.Frame):
     # Main content frame
     def __init__(self):
-        tk.Frame.__init__(self, bg=dConsts.MAIN_FRAME_COLOR)
+        tk.Frame.__init__(self, bg=dConsts.MAIN_FRAME_COLOR) 
 
     def show(self):
         self.lift()

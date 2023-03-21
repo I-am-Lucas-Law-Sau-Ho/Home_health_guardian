@@ -5,7 +5,7 @@ import requests
 import dConsts
 import math
 
-# Lifting page to the top 
+# Lifting page to the top  
 class Page(tk.Frame):
     # Main content frame
     def __init__(self):

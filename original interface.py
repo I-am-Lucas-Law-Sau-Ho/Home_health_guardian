@@ -1,5 +1,5 @@
 import controller as controller
-import cv2
+import cv2 
 import mediapipe as mp
 import numpy as np
 from tkinter import messagebox 

@@ -6,7 +6,7 @@ from tkinter import messagebox
 from matplotlib import pyplot as plt
 import subprocess
 try:
-    import Tkinter as tk
+    import Tkinter as tk 
 except:  
     import tkinter as tk
 from tkinter import * 
